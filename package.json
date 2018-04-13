@@ -1,0 +1,26 @@
+{
+  "name": "juanma.com.ar",
+  "version": "1.0.0",
+  "description": "Juanma's personal website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/juanma.git"
+  },
+  "keywords": [
+    "juanma",
+    "golazo"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/juanma/issues"
+  },
+  "homepage": "https://github.com/codealchemist/juanma#readme",
+  "dependencies": {
+    "harp": "^0.25.0"
+  }
+}
